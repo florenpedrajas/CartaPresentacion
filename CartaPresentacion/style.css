@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
+* {
+  margin: 0px;
+  padding-left: 10px;
+  box-sizing: border-box;
+  font-family: "Shadows Into Light", cursive;
+  color: rgb(224, 226, 227);
+}
+
+.card {
+  padding-top: 10px;
+  width: 400px;
+  height: 650px;
+  background-color: rgb(136, 164, 165);
+  border-radius: 20px;
+}
+.img {
+  width: 45%;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.name {
+  width: 95%;
+  font-size: 40px;
+  display: block;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.sobreMi {
+  width: 90%;
+  text-align: center;
+  font-size: 30px;
+  text-align: center;
+}
+.contact {
+  padding-left: 10px;
+  display: inline;
+  font-size: 20px;
+}
+.icon {
+  width: 30px;
+}
